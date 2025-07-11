@@ -34,7 +34,7 @@
     "tailwindcss": "^3.4.1",
     "uncss": "^0.17.3",
     "url": "^0.11.3",
-    "vite": "^5.1.4",
+    "vite": "^5.4.19",
     "vite-plugin-minify": "^1.5.2"
   }
 }
